@@ -1,13 +1,13 @@
 {
-	"name": "beepbox",
-	"version": "4.2.1",
-	"author": "John Nesky",
+	"name": "ruinbox",
+	"version": "PLEASE ADD",
+	"author": "leonperalta1004",
 	"homepage": "https://www.beepbox.co",
-	"description": "BeepBox is an online tool for sketching and sharing instrumental music.",
+	"description": "Ruinbox Is Mod Of Beepbox Is Horribly Un-Useful!.",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/johnnesky/beepbox.git"
+		"url": "git+https://github.com/leonperalta1004/ruinbox.git"
 	},
 	"bugs": {
 		"url": "https://github.com/johnnesky/beepbox/issues"
